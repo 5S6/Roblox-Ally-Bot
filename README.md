@@ -3,7 +3,7 @@
 
 **Configuring** (config.json)
 
-Cookie : Pretty Obvious, your roblox cookie.
+Cookie : Pretty Obvious, Your Roblox Cookie.
 
 Range1 : The Min Range Of Group IDS You Want To Send Ally Requests To.
 
