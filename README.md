@@ -25,4 +25,14 @@ Range2 : The Max Range Of Group IDS You Want To Send Ally Requests To.
 
 ---
 
+**Proxies**
+
+Place Your http/https Proxies In proxies.txt
+
+I Have Given You 1.8k To Use, Can't Guarantee By The Time You See This, They Will Be Working.
+
+Free http/https proxies website - https://proxyscrape.com/free-proxy-list
+
+---
+
 Reccomendation : Run It Over Night ^^
