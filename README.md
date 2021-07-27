@@ -1,6 +1,5 @@
 # Roblox-Ally-Bot
 
----
 
 **Configuring** (config.json)
 
