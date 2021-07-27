@@ -2,7 +2,7 @@
 
 ---
 
-**Configuring**
+**Configuring** (config.json)
 
 Cookie : Pretty Obvious, your roblox cookie.
 
