@@ -43,3 +43,6 @@ NOTE : MUST BE HTTP/HTTPS PROXIES
 
 ---
 
+**IMPORTANT**
+
+You CAN Run It On Replit, I Just Don't Reccomend It Since Anyone Can Steal Your Roblox Cookie If They Find Your Repl.
