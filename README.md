@@ -37,7 +37,7 @@ NOTE : MUST BE HTTP/HTTPS PROXIES
 
 ---
 
-**Picture**
+**Picture Of It Running**
 
 ![image](https://user-images.githubusercontent.com/71937946/127242542-c8528ddf-26bc-46fd-8644-aa0454a1249f.png)
 
