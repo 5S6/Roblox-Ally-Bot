@@ -33,6 +33,8 @@ I Have Given You 1.8k To Use, Can't Guarantee By The Time You See This, They Wil
 
 Free http/https proxies website - https://proxyscrape.com/free-proxy-list
 
+Note : MUST BE HTTP/HTTPS PROXIES
+
 ---
 
 **Picture**
