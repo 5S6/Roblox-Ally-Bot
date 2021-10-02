@@ -19,7 +19,7 @@ def Logo():
 \____|__  /____/____/ ____|  |______  /\____/|__|  
         \/          \/              \/
    """)
-   print(Fore.GREEN + "Made by AlekDevs#0001")
+   print(Fore.GREEN + "Made by Alek#2022")
 
 
 def Options():
