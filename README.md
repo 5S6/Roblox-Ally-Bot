@@ -45,4 +45,4 @@ NOTE : MUST BE HTTP/HTTPS PROXIES
 
 **IMPORTANT**
 
-If you want to run this on replit so that you don't have to keep your PC on 24/7 it is **VERY IMPORTANT** that you put the cookie inside an environment variable. https://docs.replit.com/programming-ide/storing-sensitive-information-environment-variables
+If you want to run this on [Replit](https://replit.com/) so that you don't have to keep your PC on 24/7 it is **VERY IMPORTANT** that you put the cookie inside an environment variable. [Replit tutorial on environment variables](https://docs.replit.com/programming-ide/storing-sensitive-information-environment-variables)
