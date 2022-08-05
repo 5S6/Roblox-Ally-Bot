@@ -45,4 +45,4 @@ NOTE : MUST BE HTTP/HTTPS PROXIES
 
 **IMPORTANT**
 
-You CAN Run It On Replit, I Just Don't Reccomend It Since Anyone Can Steal Your Roblox Cookie If They Find Your Repl.
+If you want to run this on [Replit](https://replit.com/) so that you don't have to keep your PC on 24/7 it is **VERY IMPORTANT** that you put the cookie inside an environment variable. [Replit tutorial on environment variables](https://docs.replit.com/programming-ide/storing-sensitive-information-environment-variables)
